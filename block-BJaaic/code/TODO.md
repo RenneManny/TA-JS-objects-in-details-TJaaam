@@ -9,7 +9,7 @@ Properties:
 - `locati on`
 - `numberOfLegs`
 
-Methods
+Method s
 
 - `eat()` - log a message saying `I live in ${location} and I can eat`
 
