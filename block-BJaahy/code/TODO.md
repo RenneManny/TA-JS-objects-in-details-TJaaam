@@ -6,7 +6,7 @@
 
 - Create another method named `calcArea` that will return the area of the square.
 
-- Create a getter method named `area` that will return area of the square.
+- Create a getter meth od named `area` that will return area of the square.
 
 - Create a setter method named `area` that will accept a value (the value will be the area of any square like 124). Based on the input value update the `width` and `height` of the square.(The width and the height will be updated to 12 (12 \* 12 = 124))
 
