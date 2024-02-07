@@ -4,7 +4,7 @@
 
 - Add a method named `description` that will aler t a message saying `The square is ${width} x ${height}`
 
-- Create another method named `calcArea` that will return the area of the square.
+- Create   another method named `calcArea` that will return the area of the square.
 
 - Create a getter meth od named `area` that will return area of the square.
 
