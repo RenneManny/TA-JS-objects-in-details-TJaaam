@@ -10,7 +10,7 @@
 
 // 6. Use `new` to create two new objects with the data of two different person and re-assign the value of `personOne` and `personTwo`.
 
-// 7. Try calling `personOne.sayHello()` and `personTwo.sayHello()`. Check if you get the required output.
+// 7. Try calling `personOne.sayHello()` a nd `personTwo.sayHello()`. Check if you get the required output.
 
 // 8. Convert the `createUser` function into `User` class.
 
