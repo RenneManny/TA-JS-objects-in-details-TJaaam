@@ -14,23 +14,11 @@ class Question {
     }
 
     createUI() {
-        const questionContainer = document.createElement('div');
-        questionContainer.classList.add('question');
-
-        const titleElement = document.createElement('h2');
-        titleElement.textContent = this.title;
-
-        const optionsList = document.createElement('ul');
-        this.options.forEach(option => {
-            const optionItem = document.createElement('li');
-            optionItem.textContent = option;
-            optionsList.appendChild(optionItem);
+        console.log(`Question: ${this.title}`);
+        console.log('Options:');
+        this.options.forEach((option, index) => {
+            console.log(`${index + 1}. ${option}`);
         });
-
-        questionContainer.appendChild(titleElement);
-        questionContainer.appendChild(optionsList);
-
-        document.body.appendChild(questionContainer);
     }
 }
 
@@ -55,9 +43,7 @@ class Quiz {
     }
 
     updateScore() {
-        const scoreElement = document.createElement('div');
-        scoreElement.textContent = `Score: ${this.score}`;
-        document.body.appendChild(scoreElement);
+        console.log(`Score: ${this.score}`);
     }
 }
 
