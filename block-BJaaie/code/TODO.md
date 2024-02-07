@@ -14,7 +14,7 @@ Properties:
 
 Methods
 
-- `eat()` - log a message saying `I live in ${location} and I can eat`
+- `e at()` - log a message saying `I live in ${location} and I can eat`
 
 - `changeLocation(newLocation)` - accepts location and updates the location of the animal
 
