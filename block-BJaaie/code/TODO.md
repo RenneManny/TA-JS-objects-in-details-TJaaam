@@ -2,7 +2,7 @@
 
 Convert the below requirements into inheritance using:
 
-- Pseudoclassical Pattern
+- Pseudoclassi cal Pattern
 - Class Pattern
 
 #### Animal
