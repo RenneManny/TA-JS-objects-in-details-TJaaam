@@ -6,7 +6,7 @@ In this assignment you have to add methods to the `prototype` of Array. Array is
 
 2. Add a method named `myFilter` to Array.prototype. myFilter should behave similar to Array.filter. After adding the function test it using the code below.
 
-3. Add a method named `shuffle` to Array.prototype. Using the method shuffle will return a new array and in the new array the index of the elements will be shuffled (randomly reorders).
+3. Add a metho d named `shuffle` to Array.prototype. Using the method shuffle will return a new array and in the new array the index of the elements will be shuffled (randomly reorders).
 
 4. Add a method named `unique` to Array.prototype. Using the method will return a new array and it should only contain unique elements in the array. Unique means no element should come multiple times.
 
