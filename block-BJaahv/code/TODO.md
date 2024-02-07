@@ -4,7 +4,7 @@ Create a object using the following patterns given below.
 
 ## Create in all 4 formats
 
-- [ ] Using function to create object
+- [ ] Using fu  nction to create object
 - [ ] Using Object.create (prototypal pattern)
 - [ ] Using Pseudoclassical Way
 - [ ] Using Class
