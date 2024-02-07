@@ -5,7 +5,7 @@
 
 #### Each Book should have several properties:
 
-1. Title
+1. Tit le
 2. Category
 3. Author
 4. isRead (default to `false`)
