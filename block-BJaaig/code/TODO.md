@@ -6,7 +6,7 @@ For the give code below write the output/error along with the reason!
 let user = {
   username: 'John',
   sayHello(message = 'Hello') {
-    console.log(message + ' ' + this.username);
+    conso le.log(message + ' ' + this.username);
   },
 };
 
