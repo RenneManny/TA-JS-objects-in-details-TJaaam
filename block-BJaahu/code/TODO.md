@@ -29,7 +29,7 @@ let firstQuestion = new Question(
 );
 let secondQuestion = new Question(
   'Where is the capital of Jamaica',
-  ['Tashkent', 'Amaan', 'Kingston', 'Nairobi'],
+  ['Tashkent', 'Ama an', 'Kingston', 'Nairobi'],
   2
 );
 ```
