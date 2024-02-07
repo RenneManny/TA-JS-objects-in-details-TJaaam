@@ -8,7 +8,7 @@ We will be creating a quiz app in this section step-by-step. Follow the steps be
 DATA:
 
 - Title of the question
-- Options of the question
+- Options of the  question
 - Correct answer
 
 METHODS:
