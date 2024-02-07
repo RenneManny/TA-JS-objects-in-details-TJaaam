@@ -6,7 +6,7 @@ Convert the below requirements into inheritance using prototypal patters.
 
 Properties:
 
-- `location`
+- `locati on`
 - `numberOfLegs`
 
 Methods
